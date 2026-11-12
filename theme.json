@@ -1,0 +1,29 @@
+{
+  "siteName": "Core Fit Gym",
+  "description": "Your Community Fitness Center in Chouf",
+  "lang": "en",
+  "colors": {
+    "primary": "#EF4444",
+    "secondary": "#1F2937",
+    "accent": "#F3F4F6",
+    "background": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "ink": "#111827",
+    "muted": "#6B7280",
+    "dark": "#111827"
+  },
+  "fonts": {
+    "heading": "Inter",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "",
+  "iconFont": ""
+}
